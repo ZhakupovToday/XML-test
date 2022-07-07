@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lesson>
+   <task>
+      <task_name>run_test</task_name>
+      <questions_list>questions.txt</questions_list>
+	  <decide_need_task>yes</decide_need_task>
+   </task>
+     <lesson_name>Biology</lesson_name>
+      <lesson_description>Open Biology Lesson</lesson_description>
+	  <decide_need_lesson>no</decide_need_lesson>
+	  <task_list>task_list.txt</task_list>
+	  
+</Lesson>
