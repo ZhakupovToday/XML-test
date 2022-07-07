@@ -1,0 +1,25 @@
+
+{ 
+  "product_name" : "canned carp",
+  "product_description" : "frozen canned carp",
+  "product_price" : "300 ruble",
+  "product_image" : [ 
+    {
+      "product_image1" : "face1",
+      "URL" : "https://kachestvorb.ru/upload/resize_cache/iblock/7cf/340_340_140cd750bba9870f18aada2478b24840a/7cf2c54ee96a3dfc1ced7ebe7bdcdcb9.jpg"
+    },
+    {
+      "desciption" : "face2",
+      "URL" : "https://st34.stpulscen.ru/images/product/017/860/953_big.jpg"
+    }
+  ],
+  "product_category" : [
+ 
+    {
+      "category_name" : "SeaFood",
+      "category_description" : "Products from the sea"
+	  "category_image" : "https://dikoved.ru/upload/iblock/09a/09ab265ea20d8353d97f11c0362dad87.jpg"
+	  "parent category" : "products"
+    }
+  ]
+}
