@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+   <category name="Seafood">
+      <category_description>frozen seafood</category_description>
+      <category_image>Seafood.img</category_image>
+	  <parent_category>Seafood_category</parent_category>
+   </category>
+     <product_name>carp</product_name>
+      <product_description>Canned carp</product_description>
+	  <product_image>carp.img</product_image>
+	  <category>Seafood</category>
+	  <product_price currency="ruble">300</product_price>
+  
+</product>
